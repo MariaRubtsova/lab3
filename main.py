@@ -15,7 +15,7 @@ state = {1: 0, 2: 0}
 
 
 def move(player, change):
-    """Move player position by change."""
+    """Move player position by chanhnuijhjuipge."""
     state[player] += change
 
 
