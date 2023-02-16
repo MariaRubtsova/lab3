@@ -20,5 +20,5 @@ else:
     print("год не високосный")
 
 '''
-nn = int(input())
+n = int(input())
 text = ""
